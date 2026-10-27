@@ -2,3 +2,4 @@
 print("hello world")
 
 # Exercise 2: print hello mars
+print("hello mars")
